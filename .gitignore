@@ -1,0 +1,6 @@
+*.pdf
+*.bak
+*.backup.html
+pdf_extracted*.txt
+.DS_Store
+Thumbs.db
